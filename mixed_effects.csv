@@ -1,0 +1,116 @@
+exercise_hrs,books,score,gender,trainer,age
+8,2, 30 ,1,Trainer A,32
+6,2, 20 ,0,Trainer A,28
+5,1, 50 ,0,Trainer A,15
+7,2, 70 ,0,Trainer A,34
+8,4, 88 ,1,Trainer A,20
+5,4, 49 ,1,Trainer A,18
+5,4, 30 ,1,Trainer A,22
+6,3, 40 ,1,Trainer A,19
+7,4, 25 ,1,Trainer A,29
+6,2, 40 ,1,Trainer A,34
+6,2, 59 ,1,Trainer A,30
+8,5, 70 ,1,Trainer A,31
+7,1, 20 ,0,Trainer A,31
+6,4, 30 ,0,Trainer A,20
+6,5, 33 ,0,Trainer A,25
+6,5, 40 ,0,Trainer A,30
+10,6, 90 ,1,Trainer A,18
+7,2, 40 ,1,Trainer A,29
+8,5, 65 ,1,Trainer A,25
+6,2, 45 ,0,Trainer A,16
+7,1, 36 ,0,Trainer A,33
+8,2, 40 ,1,Trainer A,21
+7,2, 33 ,0,Trainer A,29
+8,1, 40 ,1,Trainer A,33
+3,6, 70 ,1,Trainer B,31
+4,7, 75 ,1,Trainer B,32
+7,8, 80 ,0,Trainer B,16
+8,8, 85 ,1,Trainer B,33
+7,7, 90 ,1,Trainer B,33
+8,9, 95 ,0,Trainer B,15
+5,3, 50 ,0,Trainer B,27
+3,8, 90 ,0,Trainer B,21
+6,8, 88 ,0,Trainer B,25
+6,6, 80 ,1,Trainer B,35
+5,6, 65 ,1,Trainer B,21
+5,5, 70 ,1,Trainer B,18
+6,7, 77 ,1,Trainer B,33
+7,7, 80 ,0,Trainer B,35
+7,6, 88 ,0,Trainer B,30
+4,2, 30 ,1,Trainer B,26
+4,3, 60 ,0,Trainer B,30
+8,8, 90 ,1,Trainer B,33
+7,6, 80 ,1,Trainer B,18
+6,4, 69 ,1,Trainer B,20
+5,6, 67 ,0,Trainer B,31
+7,9, 80 ,1,Trainer B,24
+3,5, 80 ,1,Trainer B,20
+5,6, 70 ,1,Trainer B,26
+4,6, 80 ,0,Trainer B,28
+4,5, 90 ,0,Trainer B,33
+9,2, 40 ,0,Trainer C,32
+3,3, 50 ,1,Trainer C,34
+4,4, 60 ,1,Trainer C,21
+10,7, 90 ,1,Trainer C,25
+7,7, 70 ,1,Trainer C,15
+8,4, 60 ,0,Trainer C,17
+7,5, 40 ,0,Trainer C,24
+8,3, 50 ,0,Trainer C,33
+3,6, 40 ,1,Trainer C,18
+4,7, 45 ,1,Trainer C,34
+2,6, 50 ,1,Trainer C,29
+2,4, 60 ,1,Trainer C,15
+8,4, 86 ,1,Trainer C,33
+4,5, 50 ,1,Trainer C,34
+2,6, 60 ,0,Trainer C,21
+3,8, 40 ,1,Trainer C,22
+5,7, 40 ,1,Trainer C,34
+3,7, 60 ,0,Trainer C,35
+8,5, 77 ,0,Trainer C,25
+7,8, 80 ,0,Trainer C,20
+8,7, 77 ,0,Trainer C,21
+3,5, 57 ,1,Trainer C,29
+4,5, 40 ,1,Trainer C,27
+3,3, 50 ,1,Trainer C,34
+7,6, 70 ,1,Trainer C,31
+8,7, 80 ,0,Trainer C,20
+6,8, 90 ,1,Trainer D,30
+7,6, 80 ,1,Trainer D,20
+6,4, 69 ,0,Trainer D,18
+6,6, 67 ,0,Trainer D,17
+7,9, 80 ,0,Trainer D,25
+3,5, 80 ,1,Trainer D,25
+5,6, 70 ,1,Trainer D,35
+4,6, 80 ,1,Trainer D,34
+9,5, 90 ,1,Trainer D,17
+7,2, 40 ,1,Trainer D,19
+3,3, 50 ,1,Trainer D,35
+4,4, 60 ,0,Trainer D,20
+7,7, 90 ,1,Trainer D,30
+5,7, 70 ,1,Trainer D,24
+8,4, 60 ,0,Trainer D,19
+7,5, 40 ,0,Trainer D,33
+8,3, 50 ,0,Trainer D,33
+3,6, 40 ,0,Trainer D,23
+4,7, 45 ,1,Trainer D,26
+2,6, 50 ,1,Trainer D,35
+5,4, 60 ,1,Trainer D,23
+7,4, 86 ,1,Trainer D,24
+4,5, 50 ,0,Trainer D,34
+6,5, 40 ,0,Trainer D,26
+10,6, 90 ,0,Trainer D,34
+7,2, 40 ,1,Trainer D,22
+8,5, 65 ,0,Trainer D,23
+6,2, 45 ,0,Trainer D,21
+7,1, 36 ,0,Trainer D,28
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
